@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jawon</h1>
-<h3 align="center">풀스택 개발자 지망생입니다.</h3>
+<h3 align="center">풀스택 신입 개발자입니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawon22&label=Profile%20views&color=0e75b6&style=flat" alt="jawon22" /> </p>
 
